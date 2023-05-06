@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd year CSE student with interests<br>Data Science<br>Artificial Intelligence<br>Statistics<br><br>I am interested in doing Core Development using C++. <br>And some Web Development here and there.<br><br>Languages<br>C++ - Intermediate<br>Python - Intermediate<br>R - Beginner<br>HTML CSS JavaScript - Intermediate <br>MATLAB - Beginner<br>Dart - Beginner<br>SQL - Intermediate<br>TypeScript - Intermediate<br><br>
+I am a 3rd year CSE student with interests<br> - Data Science<br> - Artificial Intelligence<br>I am interested in doing Core Development using C++. <br>And some Web Development here and there.
 
 
 ## 🌐 Socials:
