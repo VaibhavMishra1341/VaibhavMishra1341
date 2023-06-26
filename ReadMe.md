@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 4th year CSE student with interests in <br> - 🔬 Data Science<br> - 🤖 Artificial Intelligence<br>Interested in doing Core Development using C++ and similar tech. <br>I like to sprinkle some Web Development here and there. 
+A 4th year CSE student with interests in <br> - 🔬 Data Science<br> - 🤖 Artificial Intelligence<br>Interested in doing Core Development using C++ and similar tech. <br>I like to sprinkle some Web Development here and there. <br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
