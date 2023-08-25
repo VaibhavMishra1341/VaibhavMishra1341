@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <p>Hello, I'm Vaibhav Mishra, currently in my fourth year of Computer
-            Science Engineering. My interests lie in:{' '}
+            Science Engineering. My interests lie in:
             <ul>
               <li>
                  <strong>🔬 Data Science</strong>
