@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&pause=1000&color=26C745&center=true&vCenter=true&width=1000&height=100&lines=Hey!+I+am+Vaibhav+Mishra;I+am+a+Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&pause=1000&color=3CBDB1&background=1A1B27center=true&vCenter=true&width=1000&height=100&lines=Hey!+I+am+Vaibhav+Mishra;I+am+a+Computer+Science+Student)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=56&pause=1000&color=3CBDB1&background=1A1B27&center=true&vCenter=true&width=1200&height=160&lines=Hey!+I+am+Vaibhav+Mishra;I+am+a+Computer+Science+Student)](https://git.io/typing-svg)
 
