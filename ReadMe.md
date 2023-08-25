@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&pause=1000&color=3CBDB1&background=1A1B27&center=true&vCenter=true&width=1050&height=150&lines=Hey!+I+am+Vaibhav+Mishra;4th+year+Computer+Science+Student)](https://git.io/typing-svg)
 
 ## 💫 About Me:
-<p>Hello, I'm Vaibhav Mishra, currently in my fourth year of Computer
+<p>Hello, I'm Vaibhav Mishra, currently in my 4th year of Computer
             Science Engineering. My interests lie in:
             <ul>
               <li>
