@@ -1,9 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&pause=1000&color=876BFF&center=true&vCenter=true&width=1000&height=100&lines=Hey!+I+am+Vaibhav+Mishra;I+am+a+Computer+Science+Student)](https://git.io/typing-svg)
 
 # 💫 About Me:
-A 4th year CSE student with interests in <br> - 🔬 Data Science<br> - 🤖 Artificial Intelligence<br>Interested in doing Core Development using C++ and similar tech. <br>I like to sprinkle some Web Development here and there. <br>
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+<p>Hello, I'm Vaibhav Mishra, currently in my fourth year of Computer
+            Science Engineering. My interests lie in:{' '}
+            <ul>
+              <li>
+                - <strong>🔬 Data Science</strong>
+              </li>
+              <li>
+                - <strong>🤖 Artificial Intelligence</strong>
+              </li>
+            </ul>{' '}
+            I have a strong command over <strong>C++ and core development</strong>. My journey in
+            development commenced with <strong>Web Development</strong>, which I am very
+            passionate about. I am also enthusiastic about open-source
+            initiatives, actively participating and contributing. The
+            open-source community has taught me valuable lessons and I
+            appreciate how it fosters collaboration and the sharing of
+            knowledge.</p>
 
 ## 🌐 Socials:
 <p align="left">
