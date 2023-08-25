@@ -5,10 +5,10 @@
             Science Engineering. My interests lie in:{' '}
             <ul>
               <li>
-                - <strong>🔬 Data Science</strong>
+                 <strong>🔬 Data Science</strong>
               </li>
               <li>
-                - <strong>🤖 Artificial Intelligence</strong>
+                 <strong>🤖 Artificial Intelligence</strong>
               </li>
             </ul>
             I have a strong command over <strong>C++ and core development</strong>. My journey in
