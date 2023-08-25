@@ -10,7 +10,7 @@
               <li>
                 - <strong>🤖 Artificial Intelligence</strong>
               </li>
-            </ul>{' '}
+            </ul>
             I have a strong command over <strong>C++ and core development</strong>. My journey in
             development commenced with <strong>Web Development</strong>, which I am very
             passionate about. I am also enthusiastic about open-source
