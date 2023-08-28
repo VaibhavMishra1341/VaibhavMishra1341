@@ -21,7 +21,7 @@
 
             <div align="center" >
               <a href="https://vaibhav-mishra.vercel.app/">
-                <img src="https://img.shields.io/badge/Digital-Portfolio-063875?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
+                <img src="https://img.shields.io/badge/resume-063875?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
               </a>
             </div>            
 
