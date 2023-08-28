@@ -67,14 +67,16 @@
   <table>
     <tr>
       <th width=15%>Web Technologies</th>
-      <th width=15%>Mobile App Development</th>
+      <th width=15%>Development</th>
       <th width=15%>Database</th>
       <th width=15%>Programming Languages</th>
       <th width=15%>Development Tools</th>
       <th width=12%>Design Tools</th>
     </tr>
     <tr>
-      <td align="center"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/8f26efe7-b2dd-4f50-846b-edc6c935a8d3"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/48f572b0-b4bc-42b5-9ec6-e893414f510b"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/9c7f31b9-db18-4350-98ee-2463dcf6320b"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/c6496171-9438-4ae5-b9ef-80893389e2e4"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/fb5757cd-c8d1-4dcf-929e-95dcd8e26a9e"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/9dd841f4-7c1d-4add-81da-a3072a89a891"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/37c6b701-98d6-46d5-b810-6dc73344b597"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/36e7d368-3a7e-4a14-b1e7-ab480b827e9c"></td>
+      <td align="center">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)</td>
       <td align="center"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/7186a5b2-45bb-4a31-921b-74b8c1c03682"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/c209155e-2466-46d1-839c-9d468f80e64f"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/37721ff2-afc2-4efc-8fba-d60f626e2a82"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/fc10ee04-9df3-4289-a984-291ba88d21a4"></td>
       <td align="center"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/581330a6-d2bb-4b86-8605-c78914071a2d"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/70deb4c5-a435-400f-b99b-f897e4bfed2b"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/803adcb5-7342-4fa4-92f1-3f04286bf915"></td>
       <td align="center"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/5c924b9b-19d9-4326-847a-6385f3434ba0"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/607255ab-e43b-4ab1-bfe2-4b3d20a05995"></td>
