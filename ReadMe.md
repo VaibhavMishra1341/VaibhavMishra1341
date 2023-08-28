@@ -21,11 +21,11 @@
             
 <div align="center" >
   <a margin-right="10px" href="https://vaibhav-mishra.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/website-00000?style=for-the-badge&logo=About.me&logoColor=white" width="160" height="50" />
+    <img src="https://img.shields.io/badge/website-1a1b27?style=for-the-badge&logo=About.me&logoColor=white" width="160" height="50" />
   </a
               
 <a href="https://drive.google.com/file/d/1RHlFtLru_hzf-i4U-75msH_umqUtaQht/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/resume-063875?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
+    <img src="https://img.shields.io/badge/resume-329d93?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
   </a>
 </div>
 
