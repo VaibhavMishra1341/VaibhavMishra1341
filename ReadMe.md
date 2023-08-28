@@ -11,7 +11,7 @@
                  <strong>🤖 Artificial Intelligence</strong>
               </li>
             </ul>
-            I have a strong command over <strong>C++ and core development</strong>. My journey in
+            I have a strong command over <strong>Data Structures and Algorithm in C++</strong>. My journey in
             development commenced with <strong>Web Development</strong>, which I am very
             passionate about. I am also enthusiastic about open-source
             initiatives, actively participating and contributing. The
