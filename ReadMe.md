@@ -19,11 +19,8 @@
             appreciate how it fosters collaboration and the sharing of
             knowledge.</p>
             
-<div align="center" >
-  <a href="https://drive.google.com/file/d/1dyeSK093o0VQqst9ZPqLBK0nzErtWthP/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/resume-063875?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
-  </a>
-</div>
+![Static Badge](https://img.shields.io/badge/Digital%20Portfolio?style=flat-square)
+
 
 ## 🌐 Socials:
 <p align="left">
