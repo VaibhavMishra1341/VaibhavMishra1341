@@ -19,7 +19,12 @@
             appreciate how it fosters collaboration and the sharing of
             knowledge.</p>
             
-![Static Badge](https://img.shields.io/badge/Digital%20Portfolio?style=flat-square)
+<div align="center" >
+  <a href="https://vaibhav-mishra.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="160" height="50" />
+  </a>
+</div>
+
 
 
 ## 🌐 Socials:
