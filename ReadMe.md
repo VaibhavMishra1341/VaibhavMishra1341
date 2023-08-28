@@ -19,11 +19,7 @@
             appreciate how it fosters collaboration and the sharing of
             knowledge.</p>
 
-            <div align="center" >
-              <a href="https://vaibhav-mishra.vercel.app/">
-                <img src="https://img.shields.io/badge/resume-063875?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
-              </a>
-            </div>            
+           <a href="https://vaibhav-mishra.vercel.app/" class="button big">Create Project</a>          
 
 ## 🌐 Socials:
 <p align="left">
