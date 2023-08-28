@@ -18,8 +18,12 @@
             open-source community has taught me valuable lessons and I
             appreciate how it fosters collaboration and the sharing of
             knowledge.</p>
-
-           <a href="https://vaibhav-mishra.vercel.app/" class="button big">Create Project</a>          
+            
+            <div align="center" >
+              <a href="https://drive.google.com/file/d/1dyeSK093o0VQqst9ZPqLBK0nzErtWthP/view?usp=sharing" target="_blank">
+                <img src="https://img.shields.io/badge/resume-063875?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
+              </a>
+            </div>
 
 ## 🌐 Socials:
 <p align="left">
