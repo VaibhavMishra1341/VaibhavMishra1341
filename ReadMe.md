@@ -21,7 +21,7 @@
             
 <div align="center" >
   <a href="https://vaibhav-mishra.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/website-00FFFF?style=for-the-badge&logo=About.me&logoColor=white" width="160" height="50" />
+    <img src="https://img.shields.io/badge/website-00000?style=for-the-badge&logo=About.me&logoColor=white" width="160" height="50" />
   </a>
 </div>
 
