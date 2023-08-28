@@ -36,8 +36,8 @@
   <a href="mailto:vaibhavc608@gmail.com"><img alt="Gmail" title="Vaibhav Mishra Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.codingninjas.com/studio/profile/vaibhav_mishra"><img alt="CodeStudio" title="Vaibhav Mishra CodeStudio" src="https://img.shields.io/badge/CodeStudio-FF3C00?style=for-the-badge&logo=codestudio&logoColor=white"></a>
   <a href="https://instagram.com/_vaibhav__mishra_"><img alt="Instagram" title="Vaibhav Mishra Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/NoTolerance#5198"><img alt="Discord" title="Vaibhav Mishra Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.geeksforgeeks.org"><img alt="Geeks for Geeks" title="Geeks for Geeks" src="https://auth.geeksforgeeks.org/user/vaibhavc608"></a>
+  <a href="https://discord.gg/NoTolerance#5198"><img alt="Discord" title="Vaibhav Mishra Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><a href="https://auth.geeksforgeeks.org/user/vaibhavc608"><img alt="GeeksforGeeks" title="Vaibhav Mishra GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+
 
 </p>
 
